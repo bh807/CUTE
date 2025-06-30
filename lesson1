@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <h1>Magic BUtton </h2>
+        <div>
+    <div>
+        <h3> Magic Button One </h3>
+        <p> Click the button below to know one thing about you </p>
+        <button onclick="alert('You are awesome!')">Click Me!</button>
+    </div>
+</html>
